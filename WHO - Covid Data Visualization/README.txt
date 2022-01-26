@@ -1,0 +1,4 @@
+- This project was created during the NAAC visit in 2021, at Jain University
+- This Project Aims to showcase Data Visualization using Python Libraries
+- We have used the Covid Dataset from the actual WHO repository, cleaned the data & made necessary preprocessing.
+- The Processed data was then used to create the visualizations like the interactive Race plot for vaccinations data
