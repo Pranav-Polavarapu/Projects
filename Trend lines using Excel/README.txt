@@ -1,0 +1,3 @@
+- This is a representation of different Trend lines / curves, using different data.
+- The lines/regression was plotted & various correlations were shown
+- Values such as R, R^2, Regression, Coefficient were calculated & shown.
