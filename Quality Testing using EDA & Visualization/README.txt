@@ -1,0 +1,5 @@
+- This project was created during the NAAC visit in 2021, at Jain University
+- This Project Aims to predict the Wine Quality from the dataset , using EDA & Data Visualization with Python Libraries
+- We have used the Wine Quality Dataset from the source, cleaned the data & made necessary preprocessing.
+- The Processed data was then used to create various 2D/3D visualizations, maps & plots for showing the detailed analysis of features & their correlations.
+- The final output shows us how the Quality of Wine is varying, due to different magnitudes of different features.
