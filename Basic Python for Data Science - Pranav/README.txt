@@ -1,0 +1,3 @@
+- This folder is a compilation of 12 files(ipynb converted to PDF)
+- It contains Python Codes from basic-to-mid level problems related to Data Science.
+- Acts as a good starting point for anyone who's eager to learn Python for Data Science from scratch.
