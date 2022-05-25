@@ -1,0 +1,671 @@
+﻿id,breed
+01_016,Akhal-Teke
+01_017,Akhal-Teke
+01_018,Akhal-Teke
+01_019,Akhal-Teke
+01_020,Akhal-Teke
+01_021,Akhal-Teke
+01_022,Akhal-Teke
+01_023,Akhal-Teke
+01_024,Akhal-Teke
+01_025,Akhal-Teke
+01_026,Akhal-Teke
+01_027,Akhal-Teke
+01_028,Akhal-Teke
+01_029,Akhal-Teke
+01_030,Akhal-Teke
+01_031,Akhal-Teke
+01_032,Akhal-Teke
+01_033,Akhal-Teke
+01_034,Akhal-Teke
+01_035,Akhal-Teke
+01_036,Akhal-Teke
+01_037,Akhal-Teke
+01_038,Akhal-Teke
+01_039,Akhal-Teke
+01_040,Akhal-Teke
+01_041,Akhal-Teke
+01_042,Akhal-Teke
+01_043,Akhal-Teke
+01_044,Akhal-Teke
+01_045,Akhal-Teke
+01_046,Akhal-Teke
+01_047,Akhal-Teke
+01_048,Akhal-Teke
+01_049,Akhal-Teke
+01_050,Akhal-Teke
+01_051,Akhal-Teke
+01_052,Akhal-Teke
+01_053,Akhal-Teke
+01_054,Akhal-Teke
+01_055,Akhal-Teke
+01_056,Akhal-Teke
+01_057,Akhal-Teke
+01_058,Akhal-Teke
+01_059,Akhal-Teke
+01_060,Akhal-Teke
+01_061,Akhal-Teke
+01_062,Akhal-Teke
+01_063,Akhal-Teke
+01_064,Akhal-Teke
+01_065,Akhal-Teke
+01_066,Akhal-Teke
+01_067,Akhal-Teke
+01_068,Akhal-Teke
+01_069,Akhal-Teke
+01_070,Akhal-Teke
+01_071,Akhal-Teke
+01_072,Akhal-Teke
+01_073,Akhal-Teke
+01_074,Akhal-Teke
+01_075,Akhal-Teke
+01_076,Akhal-Teke
+01_077,Akhal-Teke
+01_078,Akhal-Teke
+01_079,Akhal-Teke
+01_080,Akhal-Teke
+01_081,Akhal-Teke
+01_082,Akhal-Teke
+01_083,Akhal-Teke
+01_084,Akhal-Teke
+01_085,Akhal-Teke
+01_086,Akhal-Teke
+01_087,Akhal-Teke
+01_088,Akhal-Teke
+01_089,Akhal-Teke
+01_090,Akhal-Teke
+01_091,Akhal-Teke
+01_092,Akhal-Teke
+01_093,Akhal-Teke
+01_094,Akhal-Teke
+01_095,Akhal-Teke
+01_096,Akhal-Teke
+01_097,Akhal-Teke
+01_098,Akhal-Teke
+01_099,Akhal-Teke
+01_100,Akhal-Teke
+01_101,Akhal-Teke
+01_102,Akhal-Teke
+01_103,Akhal-Teke
+01_104,Akhal-Teke
+01_105,Akhal-Teke
+01_106,Akhal-Teke
+01_107,Akhal-Teke
+01_108,Akhal-Teke
+01_109,Akhal-Teke
+01_110,Akhal-Teke
+01_111,Akhal-Teke
+01_112,Akhal-Teke
+01_113,Akhal-Teke
+01_114,Akhal-Teke
+01_115,Akhal-Teke
+01_116,Akhal-Teke
+01_117,Akhal-Teke
+01_118,Akhal-Teke
+01_119,Akhal-Teke
+01_120,Akhal-Teke
+01_121,Akhal-Teke
+01_122,Akhal-Teke
+01_123,Akhal-Teke
+02_001,Appaloosa
+02_002,Appaloosa
+02_003,Appaloosa
+02_004,Appaloosa
+02_005,Appaloosa
+02_006,Appaloosa
+02_007,Appaloosa
+02_008,Appaloosa
+02_009,Appaloosa
+02_010,Appaloosa
+02_011,Appaloosa
+02_012,Appaloosa
+02_013,Appaloosa
+02_014,Appaloosa
+02_015,Appaloosa
+02_016,Appaloosa
+02_017,Appaloosa
+02_018,Appaloosa
+02_019,Appaloosa
+02_020,Appaloosa
+02_021,Appaloosa
+02_022,Appaloosa
+02_023,Appaloosa
+02_024,Appaloosa
+02_025,Appaloosa
+02_026,Appaloosa
+02_027,Appaloosa
+02_028,Appaloosa
+02_029,Appaloosa
+02_030,Appaloosa
+02_031,Appaloosa
+02_032,Appaloosa
+02_033,Appaloosa
+02_034,Appaloosa
+02_035,Appaloosa
+02_036,Appaloosa
+02_037,Appaloosa
+02_038,Appaloosa
+02_039,Appaloosa
+02_040,Appaloosa
+02_041,Appaloosa
+02_042,Appaloosa
+02_043,Appaloosa
+02_044,Appaloosa
+02_045,Appaloosa
+02_046,Appaloosa
+02_047,Appaloosa
+02_048,Appaloosa
+02_049,Appaloosa
+02_050,Appaloosa
+02_051,Appaloosa
+02_052,Appaloosa
+02_053,Appaloosa
+02_054,Appaloosa
+02_055,Appaloosa
+02_056,Appaloosa
+02_057,Appaloosa
+02_058,Appaloosa
+02_059,Appaloosa
+02_060,Appaloosa
+02_061,Appaloosa
+02_062,Appaloosa
+02_063,Appaloosa
+02_064,Appaloosa
+02_065,Appaloosa
+02_066,Appaloosa
+02_067,Appaloosa
+02_068,Appaloosa
+02_069,Appaloosa
+02_070,Appaloosa
+02_071,Appaloosa
+02_072,Appaloosa
+02_073,Appaloosa
+02_074,Appaloosa
+02_075,Appaloosa
+02_076,Appaloosa
+02_077,Appaloosa
+02_078,Appaloosa
+02_079,Appaloosa
+02_080,Appaloosa
+02_081,Appaloosa
+02_082,Appaloosa
+02_083,Appaloosa
+02_084,Appaloosa
+02_085,Appaloosa
+02_086,Appaloosa
+02_087,Appaloosa
+02_088,Appaloosa
+02_089,Appaloosa
+02_090,Appaloosa
+02_091,Appaloosa
+02_092,Appaloosa
+02_093,Appaloosa
+02_094,Appaloosa
+02_095,Appaloosa
+02_096,Appaloosa
+02_097,Appaloosa
+02_098,Appaloosa
+02_099,Appaloosa
+02_100,Appaloosa
+02_101,Appaloosa
+02_102,Appaloosa
+02_103,Appaloosa
+02_104,Appaloosa
+02_105,Appaloosa
+03_001,Orlov Trotter
+03_002,Orlov Trotter
+03_003,Orlov Trotter
+03_004,Orlov Trotter
+03_005,Orlov Trotter
+03_006,Orlov Trotter
+03_007,Orlov Trotter
+03_008,Orlov Trotter
+03_009,Orlov Trotter
+03_010,Orlov Trotter
+03_011,Orlov Trotter
+03_012,Orlov Trotter
+03_013,Orlov Trotter
+03_014,Orlov Trotter
+03_015,Orlov Trotter
+03_016,Orlov Trotter
+03_017,Orlov Trotter
+03_018,Orlov Trotter
+03_019,Orlov Trotter
+03_020,Orlov Trotter
+03_021,Orlov Trotter
+03_022,Orlov Trotter
+03_023,Orlov Trotter
+03_024,Orlov Trotter
+03_025,Orlov Trotter
+03_026,Orlov Trotter
+03_027,Orlov Trotter
+03_028,Orlov Trotter
+03_029,Orlov Trotter
+03_030,Orlov Trotter
+03_031,Orlov Trotter
+03_032,Orlov Trotter
+03_033,Orlov Trotter
+03_034,Orlov Trotter
+03_035,Orlov Trotter
+03_036,Orlov Trotter
+03_037,Orlov Trotter
+03_038,Orlov Trotter
+03_039,Orlov Trotter
+03_040,Orlov Trotter
+03_041,Orlov Trotter
+03_042,Orlov Trotter
+03_043,Orlov Trotter
+03_044,Orlov Trotter
+03_045,Orlov Trotter
+03_046,Orlov Trotter
+03_047,Orlov Trotter
+03_048,Orlov Trotter
+03_049,Orlov Trotter
+03_050,Orlov Trotter
+03_051,Orlov Trotter
+03_052,Orlov Trotter
+03_053,Orlov Trotter
+03_054,Orlov Trotter
+03_055,Orlov Trotter
+03_056,Orlov Trotter
+03_057,Orlov Trotter
+03_058,Orlov Trotter
+03_059,Orlov Trotter
+03_060,Orlov Trotter
+03_061,Orlov Trotter
+03_062,Orlov Trotter
+03_063,Orlov Trotter
+03_064,Orlov Trotter
+03_065,Orlov Trotter
+03_066,Orlov Trotter
+03_067,Orlov Trotter
+03_068,Orlov Trotter
+03_069,Orlov Trotter
+03_070,Orlov Trotter
+03_071,Orlov Trotter
+03_072,Orlov Trotter
+03_073,Orlov Trotter
+03_074,Orlov Trotter
+03_075,Orlov Trotter
+03_076,Orlov Trotter
+03_077,Orlov Trotter
+03_078,Orlov Trotter
+03_079,Orlov Trotter
+03_080,Orlov Trotter
+03_081,Orlov Trotter
+03_082,Orlov Trotter
+03_083,Orlov Trotter
+03_084,Orlov Trotter
+03_085,Orlov Trotter
+03_086,Orlov Trotter
+03_087,Orlov Trotter
+03_088,Orlov Trotter
+03_089,Orlov Trotter
+03_090,Orlov Trotter
+03_091,Orlov Trotter
+03_092,Orlov Trotter
+03_093,Orlov Trotter
+03_094,Orlov Trotter
+03_095,Orlov Trotter
+03_096,Orlov Trotter
+03_097,Orlov Trotter
+03_098,Orlov Trotter
+03_099,Orlov Trotter
+03_100,Orlov Trotter
+03_101,Orlov Trotter
+03_102,Orlov Trotter
+03_103,Orlov Trotter
+03_104,Orlov Trotter
+03_105,Orlov Trotter
+03_106,Orlov Trotter
+03_107,Orlov Trotter
+04_001,Vladimir Heavy Draft
+04_002,Vladimir Heavy Draft
+04_003,Vladimir Heavy Draft
+04_004,Vladimir Heavy Draft
+04_005,Vladimir Heavy Draft
+04_006,Vladimir Heavy Draft
+04_007,Vladimir Heavy Draft
+04_008,Vladimir Heavy Draft
+04_009,Vladimir Heavy Draft
+04_010,Vladimir Heavy Draft
+04_011,Vladimir Heavy Draft
+04_012,Vladimir Heavy Draft
+04_013,Vladimir Heavy Draft
+04_014,Vladimir Heavy Draft
+04_015,Vladimir Heavy Draft
+04_016,Vladimir Heavy Draft
+04_017,Vladimir Heavy Draft
+04_018,Vladimir Heavy Draft
+04_019,Vladimir Heavy Draft
+04_020,Vladimir Heavy Draft
+04_021,Vladimir Heavy Draft
+04_022,Vladimir Heavy Draft
+04_023,Vladimir Heavy Draft
+04_024,Vladimir Heavy Draft
+04_025,Vladimir Heavy Draft
+04_026,Vladimir Heavy Draft
+04_027,Vladimir Heavy Draft
+04_028,Vladimir Heavy Draft
+04_029,Vladimir Heavy Draft
+04_030,Vladimir Heavy Draft
+04_031,Vladimir Heavy Draft
+04_032,Vladimir Heavy Draft
+04_033,Vladimir Heavy Draft
+04_034,Vladimir Heavy Draft
+04_035,Vladimir Heavy Draft
+04_036,Vladimir Heavy Draft
+04_037,Vladimir Heavy Draft
+05_001,Percheron
+05_002,Percheron
+05_003,Percheron
+05_004,Percheron
+05_005,Percheron
+05_006,Percheron
+05_007,Percheron
+05_008,Percheron
+05_009,Percheron
+05_010,Percheron
+05_011,Percheron
+05_012,Percheron
+05_013,Percheron
+05_014,Percheron
+05_015,Percheron
+05_016,Percheron
+05_017,Percheron
+05_018,Percheron
+05_019,Percheron
+05_020,Percheron
+05_021,Percheron
+05_022,Percheron
+05_023,Percheron
+05_024,Percheron
+05_025,Percheron
+05_026,Percheron
+05_027,Percheron
+05_028,Percheron
+05_029,Percheron
+05_030,Percheron
+05_031,Percheron
+05_032,Percheron
+05_033,Percheron
+05_034,Percheron
+05_035,Percheron
+05_036,Percheron
+05_037,Percheron
+05_038,Percheron
+05_039,Percheron
+05_040,Percheron
+05_041,Percheron
+05_042,Percheron
+05_043,Percheron
+05_044,Percheron
+05_045,Percheron
+05_046,Percheron
+05_047,Percheron
+05_048,Percheron
+05_049,Percheron
+05_050,Percheron
+05_051,Percheron
+05_052,Percheron
+05_053,Percheron
+05_054,Percheron
+05_055,Percheron
+05_056,Percheron
+06_001,Arabian
+06_002,Arabian
+06_003,Arabian
+06_004,Arabian
+06_005,Arabian
+06_006,Arabian
+06_007,Arabian
+06_008,Arabian
+06_009,Arabian
+06_010,Arabian
+06_011,Arabian
+06_012,Arabian
+06_013,Arabian
+06_014,Arabian
+06_015,Arabian
+06_016,Arabian
+06_017,Arabian
+06_018,Arabian
+06_019,Arabian
+06_020,Arabian
+06_021,Arabian
+06_022,Arabian
+06_023,Arabian
+06_024,Arabian
+06_025,Arabian
+06_026,Arabian
+06_027,Arabian
+06_028,Arabian
+06_029,Arabian
+06_030,Arabian
+06_031,Arabian
+06_032,Arabian
+06_033,Arabian
+06_034,Arabian
+06_035,Arabian
+06_036,Arabian
+06_037,Arabian
+06_038,Arabian
+06_039,Arabian
+06_040,Arabian
+06_041,Arabian
+06_042,Arabian
+06_043,Arabian
+06_044,Arabian
+06_045,Arabian
+06_046,Arabian
+06_047,Arabian
+06_048,Arabian
+06_049,Arabian
+06_050,Arabian
+06_051,Arabian
+06_052,Arabian
+06_053,Arabian
+06_054,Arabian
+06_055,Arabian
+06_056,Arabian
+06_057,Arabian
+06_058,Arabian
+06_059,Arabian
+06_060,Arabian
+06_061,Arabian
+06_062,Arabian
+06_063,Arabian
+06_064,Arabian
+06_065,Arabian
+06_066,Arabian
+06_067,Arabian
+06_068,Arabian
+06_069,Arabian
+06_070,Arabian
+06_071,Arabian
+06_072,Arabian
+06_073,Arabian
+06_074,Arabian
+06_075,Arabian
+06_076,Arabian
+06_077,Arabian
+06_078,Arabian
+06_079,Arabian
+06_080,Arabian
+06_081,Arabian
+06_082,Arabian
+06_083,Arabian
+06_084,Arabian
+06_085,Arabian
+06_086,Arabian
+06_087,Arabian
+06_088,Arabian
+06_089,Arabian
+06_090,Arabian
+06_091,Arabian
+06_092,Arabian
+06_093,Arabian
+06_094,Arabian
+06_095,Arabian
+06_096,Arabian
+06_097,Arabian
+06_098,Arabian
+06_099,Arabian
+06_100,Arabian
+06_101,Arabian
+06_102,Arabian
+06_103,Arabian
+06_104,Arabian
+06_105,Arabian
+06_106,Arabian
+06_107,Arabian
+06_108,Arabian
+06_109,Arabian
+06_110,Arabian
+06_111,Arabian
+06_112,Arabian
+06_113,Arabian
+06_114,Arabian
+06_115,Arabian
+06_116,Arabian
+06_117,Arabian
+06_118,Arabian
+06_119,Arabian
+06_120,Arabian
+06_121,Arabian
+06_122,Arabian
+07_001,Friesian
+07_002,Friesian
+07_003,Friesian
+07_004,Friesian
+07_005,Friesian
+07_006,Friesian
+07_007,Friesian
+07_008,Friesian
+07_009,Friesian
+07_010,Friesian
+07_011,Friesian
+07_012,Friesian
+07_013,Friesian
+07_014,Friesian
+07_015,Friesian
+07_016,Friesian
+07_017,Friesian
+07_018,Friesian
+07_019,Friesian
+07_020,Friesian
+07_021,Friesian
+07_022,Friesian
+07_023,Friesian
+07_024,Friesian
+07_025,Friesian
+07_026,Friesian
+07_027,Friesian
+07_028,Friesian
+07_029,Friesian
+07_030,Friesian
+07_031,Friesian
+07_032,Friesian
+07_033,Friesian
+07_034,Friesian
+07_035,Friesian
+07_036,Friesian
+07_037,Friesian
+07_038,Friesian
+07_039,Friesian
+07_040,Friesian
+07_041,Friesian
+07_042,Friesian
+07_043,Friesian
+07_044,Friesian
+07_045,Friesian
+07_046,Friesian
+07_047,Friesian
+07_048,Friesian
+07_049,Friesian
+07_050,Friesian
+07_051,Friesian
+07_052,Friesian
+07_053,Friesian
+07_054,Friesian
+07_055,Friesian
+07_056,Friesian
+07_057,Friesian
+07_058,Friesian
+07_059,Friesian
+07_060,Friesian
+07_061,Friesian
+07_062,Friesian
+07_063,Friesian
+07_064,Friesian
+07_065,Friesian
+07_066,Friesian
+07_067,Friesian
+07_068,Friesian
+07_069,Friesian
+07_070,Friesian
+07_071,Friesian
+07_072,Friesian
+07_073,Friesian
+07_074,Friesian
+07_075,Friesian
+07_076,Friesian
+07_077,Friesian
+07_078,Friesian
+07_079,Friesian
+07_080,Friesian
+07_081,Friesian
+07_082,Friesian
+07_083,Friesian
+07_084,Friesian
+07_085,Friesian
+07_086,Friesian
+07_087,Friesian
+07_088,Friesian
+07_089,Friesian
+07_090,Friesian
+07_091,Friesian
+07_092,Friesian
+07_093,Friesian
+07_094,Friesian
+07_095,Friesian
+07_096,Friesian
+07_097,Friesian
+07_098,Friesian
+07_099,Friesian
+07_100,Friesian
+07_101,Friesian
+07_102,Friesian
+07_103,Friesian
+07_104,Friesian
+07_105,Friesian
+07_106,Friesian
+07_107,Friesian
+07_108,Friesian
+07_109,Friesian
+07_110,Friesian
+07_111,Friesian
+07_112,Friesian
+07_113,Friesian
+07_114,Friesian
+07_115,Friesian
+07_116,Friesian
+07_117,Friesian
+07_118,Friesian
+07_119,Friesian
+07_120,Friesian
+01_001,Akhal-Teke
+01_002,Akhal-Teke
+01_003,Akhal-Teke
+01_004,Akhal-Teke
+01_005,Akhal-Teke
+01_006,Akhal-Teke
+01_007,Akhal-Teke
+01_008,Akhal-Teke
+01_009,Akhal-Teke
+01_010,Akhal-Teke
+01_011,Akhal-Teke
+01_012,Akhal-Teke
+01_013,Akhal-Teke
+01_014,Akhal-Teke
+01_015,Akhal-Teke
