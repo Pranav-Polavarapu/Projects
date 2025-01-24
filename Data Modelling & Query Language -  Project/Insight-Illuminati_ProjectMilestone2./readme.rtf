@@ -1,0 +1,61 @@
+README
+
+Project Name: Cinematic Insight Odyssey (Movie DB)
+
+DATABASE User-Interface UI : https://c467-71-186-155-128.ngrok-free.app
+ Team Name: Insight Illuminati
+ Team Members (UBID):
+	•	Pranav Polavarapu (pranavpo)
+	•	Sai Keerthi Chelluri (schellur)
+	•	Nikhil Raj Yammani (nyammani)
+
+
+
+Database Source and Transformation Details:
+
+The "Cinematic Insight Odyssey" is a relational database project that utilizes non-commercial datasets provided by IMDB. The data is updated daily and includes seven gzipped TSV files that encompass a wide range of movie-related information.
+
+
+
+Source -> https://developer.imdb.com/non-commercial-datasets/
+
+Source Files:
+	•	name.basics.tsv.gz
+	•	title.akas.tsv.gz
+	•	title.basics.tsv.gz
+	•	title.crew.tsv.gz
+	•	title.episode.tsv.gz
+	•	title.principals.tsv.gz
+	•	title.ratings.tsv.gz
+
+These 7 files have been pre-processed, transformed and structured into 11 relational tables using Python scripts. Each script is designed to convert the raw TSV data into a format that adheres to our schema requirements.
+
+Schema/Tables: (stored as TSV Files - under TABLES DATA sub-directory)
+	•	movies
+	•	genre
+	•	moviegenres
+	•	people
+	•	occupations
+	•	castandcrew
+	•	alternatetitles
+	•	titlecrew
+	•	episodes
+	•	filmroles
+	•	rating
+
+
+INSTRUCTIONS TO RUN DataBase SCRIPTS:
+
+• The database tables are created using the create.sql script.
+• Data loading is performed using the load.sql script.
+• These scripts use PostgreSQL commands to structure the database and bulk load data, ensuring consistency and efficiency.
+
+1) Open the Cinematic-Insight DB Folder at terminal.
+2) RUN psql -U postgres -d DatabaseName
+3) Once you are connected to an existing DB, do:
+	a) \i create.sql
+	b) \i load.sql
+
+NOTE: Running the LOAD.SQL file TAKES A WHILE, as the Data is VERY HUGE, and takes time to get LOADED.
+
+
